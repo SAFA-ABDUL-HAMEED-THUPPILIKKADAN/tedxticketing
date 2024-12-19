@@ -1637,7 +1637,7 @@ span {
 
 @media (max-width: 480px) {
   .main-content {
-    min-height: 45vh;
+    min-height: 50vh;
   }
   .center-text {
     font-size: 7.5vw; /* Adjusted font size for smaller devices */
@@ -1659,6 +1659,11 @@ span {
   }
 }
 
+
+@media (max-width: 300px) {
+  .main-content {
+    min-height: 50vh;
+  }
 /* date style */
 
 .responsive-image-container {
@@ -1675,6 +1680,12 @@ span {
 }
 
 @media (max-width: 480px) {
+  .responsive-image-container {
+    height: 25vh;
+  }
+}
+
+@media (max-width: 300px) {
   .responsive-image-container {
     height: 20vh;
   }

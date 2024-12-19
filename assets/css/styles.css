@@ -1681,7 +1681,7 @@ span {
 
 @media (max-width: 480px) {
   .responsive-image-container {
-    height: 25vh;
+    height: 20vh;
   }
 }
 

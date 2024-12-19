@@ -1637,7 +1637,7 @@ span {
 
 @media (max-width: 480px) {
   .main-content {
-    min-height: 50vh;
+    min-height: 45vh;
   }
   .center-text {
     font-size: 7.5vw; /* Adjusted font size for smaller devices */
@@ -1676,7 +1676,7 @@ span {
 
 @media (max-width: 480px) {
   .responsive-image-container {
-    height: 15vh;
+    height: 20vh;
   }
 }
 

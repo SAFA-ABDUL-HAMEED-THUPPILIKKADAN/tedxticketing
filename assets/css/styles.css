@@ -1659,11 +1659,11 @@ span {
   }
 }
 
-@media (max-width: 300px) {
+/* @media (max-width: 300px) {
   .main-content {
     min-height: 50vh;
   }
-}
+} */
 /* date style */
 
 .responsive-image-container {

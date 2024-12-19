@@ -1685,11 +1685,11 @@ span {
   }
 }
 
-@media (max-width: 300px) {
+/* @media (max-width: 300px) {
   .responsive-image-container {
     height: 20vh;
   }
-}
+} */
 
 /* event theme heading style */
 
